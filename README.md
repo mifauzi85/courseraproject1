@@ -1,4 +1,4 @@
-# Some notes on this project
+# Notes for reviewer
 
 This project is to fulfill course assignment from coursera : Tools for Data Science modul 4 assignment.
 
